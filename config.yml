@@ -1,0 +1,15 @@
+discord:
+  bot-token: "ВАШ_ТОКЕН_БОТА"
+  guild-id: "ID_СЕРВЕРА_DISCORD"
+  report-channel-id: "ID_КАНАЛА_ДЛЯ_РЕПОРТОВ"
+
+colors:
+  pending: 0xFFA500
+  progress: 0x0000FF
+  denied: 0xFF0000
+  approved: 0x00FF00
+
+messages:
+  in-progress: "&8[&6⌛&8] &eЖалоба была взята на рассмотрения, ожидайте ответа."
+  approved: "&8[&a✔&8] &2Жалоба была принята модератором&a: %moderator%"
+  denied: "&8[&c✖&8] &4Жалоба была отказана модератором&c: %moderator%"

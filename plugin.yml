@@ -1,0 +1,8 @@
+name: DiscordReports
+version: 1.0
+main: com.example.minecraftdiscordreports.Main
+api-version: 1.16
+commands:
+  report:
+    description: Отправить жалобу на игрока
+    usage: /report <ник> <причина>
